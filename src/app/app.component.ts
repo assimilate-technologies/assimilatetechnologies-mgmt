@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Assimilate Techonologies, Pune';
+  test='I am checking git commit operations'
 }
